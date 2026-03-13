@@ -5,7 +5,7 @@ type: post
 categories:
 - Infrastructure
 tags:
-- Live
+- Discontinued
 - Open source friendly
 - Developer friendly
 - Hosting
@@ -13,17 +13,17 @@ draft: false
 images:
 - /images/fosshost.png
 comments: true
-lastmod: 2020-10-13T08:20:00+02:00
+lastmod: 2026-03-13T20:00:00+00:00
 link: "https://fosshost.org"
 twitter: fosshostorg
 description: "Fosshost is a not-for-profit provider of free to use and accessible cloud-hosting services to the free and open source software community."
 organization: "Non-profit"
 monetization: "Donations"
 technology: "Open source"
-status: "Live"
+status: "Discontinued"
 activity: 50
-activity_text: "More than 50 projects are using Fosshost."
+activity_text: "Fosshost announced end-of-life in December 2022 and is no longer operating."
 payment_services: "Paypal, Bitcoin, Infrastructure"
 fee: "0"
 ---
-The project operates a number of free hosting services for the open source community. The infrastructure is donated by our hosting sponsors and managed by a group of highly talented volunteers. <!--more-->
+Fosshost announced end-of-life in December 2022 and is no longer operating. This listing is retained for historical reference. <!--more-->

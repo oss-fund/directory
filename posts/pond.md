@@ -1,6 +1,6 @@
 ---
 title: "Pond"
-date: 2026-01-30T00:00:00+00:00
+date: 2026-03-13T00:00:00+00:00
 type: post
 categories:
 - Bounties
@@ -12,7 +12,7 @@ draft: false
 images:
 - /images/pond.svg
 comments: true
-lastmod: 2026-01-30T00:00:00+00:00
+lastmod: 2026-03-13T00:00:00+00:00
 link: "https://joinpond.ai/"
 twitter: JoinPond
 description: "Earn rewards for completing bounties in a high-quality, impactful manner."
