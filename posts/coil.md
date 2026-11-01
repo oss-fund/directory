@@ -4,26 +4,29 @@ date: 2020-10-29T08:20:00+02:00
 type: post
 categories:
 - Content
+pillar: "Revenue"
 tags:
-- Live
 - Publishing
-- Realtime
 draft: false
 images:
 - /images/coil.png
-comments: true
-lastmod: 2020-10-30T08:20:00+02:00
+lastmod: 2026-03-15T00:00:00+00:00
 link: "https://coil.com/"
-twitter: coil
-description: "Coil enables real-time payments to content owners in digital assets using Web Monetization API"
+evidence_urls:
+- "https://www.coil.com/"
+- "https://www.coil.com/content/coil-unveils-monetized-platform-for-content-creators"
+- "https://www.coil.com/press-news/ripples-xpring-makes-1-billion-xrp-grant-to-drive-xrp-adoption-and-advance-coils-monetized-platform-for-creators"
+description: "Coil was a web-monetization platform that streamed micropayments to creators as subscribers consumed content."
 organization: "Corporation"
-monetization: "Real time payments for time spent consuming content"
-technology: "Close source"
-status: "Live"
-activity: -1
-payment_services: "XRP, BTC or ETH"
-fee: "?"
+monetization: "Subscription-funded streaming micropayments for creators"
+technology: "Closed source platform built around the Web Monetization standard"
+open_source_status: "Closed source platform built on an open standard"
+status: "Discontinued"
+activity: 5
+activity_text: "Before sunsetting in 2023, Coil publicly operated a $5 monthly membership and a creator-payout network built around Web Monetization."
+payment_services: "USD payouts, wire, ACH, and XRP-era wallet support"
+fee: "$5/mo membership"
+fee_text: "Coil charged users a flat $5 monthly membership; creators were paid from streamed consumption rather than charged a platform listing fee."
 ---
 
-Coil uses an open API called Web Monetization in order to pay sites in real-time creating a self-sustaining economy. Whether you are a blogger, YouTuber or regular content creator you can now accept streaming payments in digital assets like XRP, BTC or ETH via Coil.<!--more-->
-
+Coil was an ambitious attempt to fund creators and publishers through streaming micropayments rather than ads or traditional subscriptions, using the Web Monetization standard. The service shut down in 2023, but it remains an important historical example of alternative creator revenue infrastructure on the web.<!--more-->

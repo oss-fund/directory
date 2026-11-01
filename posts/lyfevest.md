@@ -3,29 +3,28 @@ title: "Lyfevest"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Support
+- Support Services
 tags:
-- In-development
-- Open source friendly
-- Developer friendly
+- OSS-specific
+pillar: "Revenue"
 draft: false
 images:
 - /images/lyfevest.jpg
-comments: true
-lastmod: 2020-06-20T08:20:00+02:00
-link: "https://lyfevest.io/"
-twitter: Lyfevest
-description: "Connecting enterprise developers who are using open source with the contributors who are creating open source."
+lastmod: 2026-03-15T00:00:00+00:00
+evidence_urls:
+- "https://crosscapitalresearch.com/pages/advisors"
+description: "Lyfevest was pitched as a subscription service for connecting enterprise users of open source with the contributors building those projects."
 organization: "Corporation"
 monetization: "Support through subscription"
-technology: "Open source"
-status: "In-development"
+technology: "Original code status unclear"
+open_source_status: "Code status unclear"
+status: "Discontinued"
 activity: 0
-payment_services: "?"
-fee: "299$"
-fee_text: "From $299.99/month to $2399.99/year"
+activity_text: "The current lyfevest.io site now advertises an unrelated family-document product, so the original OSS-support concept could not be validated as an active service."
+payment_services: "Not publicly documented"
+fee: "$299/month"
+fee_text: "Historical pricing references described plans starting around $299.99 per month and reaching roughly $2,399.99 per year."
 
 ---
 
-Connecting enterprise developers who are using open source with the contributors who are creating open source.<!--more-->
-
+Lyfevest originally framed itself as a way for enterprises to financially support the open source contributors behind the software they rely on. The current public website now points to an unrelated product, so this entry is best treated as a discontinued historical attempt at subscription-based OSS support.<!--more-->

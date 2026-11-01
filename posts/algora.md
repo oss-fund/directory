@@ -3,29 +3,44 @@ title: "Algora"
 date: 2024-02-11T00:00:00+00:00
 type: post
 categories:
-- Bounties
+- Support Services
 tags:
-- Live
-- Developer friendly
-- Open source friendly
+- OSS-specific
+- Marketplace
+pillar: "Revenue"
 draft: false
 images:
 - /images/algora.png
-comments: true
-lastmod: 2024-02-11T00:00:00+00:00
+lastmod: 2026-03-15T00:00:00+00:00
 link: "https://algora.io/"
 twitter: algoraio
-description: "Algora is a developer tool & community simplifying bounties, hiring & open source sustainability."
+verified: true
+verified_on: 2026-03-15
+checked_by: "OSS.Fund editorial team"
+evidence_urls:
+- "https://algora.io/"
+- "https://algora.io/pricing"
+- "https://github.com/algora-io/algora"
+- "https://x.com/algoraio"
+next_recheck_on: 2026-05-15
+description: "Algora helps maintainers and contributors earn through bounties, contract work, and open source recruiting."
 organization: "Public Benefit Corporation"
-monetization: "Bounties"
-technology: "Close source"
+monetization: "Bounties, contract work, and recruiting placements"
+technology: "GitHub-integrated web platform"
+open_source_status: "Open source (AGPL-3.0)"
 status: "Live"
-activity: 135424
-activity_text: "$135,424 rewarded (1,172 bounties) to 320 OSS contributors from 55 countries"
+activity: 100
+activity_text: "Algora reports 100+ customers and 30+ full-time software engineers hired."
 payment_services: "Stripe"
-fee: "19%"
-fee_text: "19% platform fee + 4% Stripe processing fee, paid by organizations on top of bounty payouts"
+fee: "9%+ / custom"
+fee_text: "Pricing states a 9% fee on bounties for organizations, while hiring and some contract workflows route through a contact flow."
+best_for:
+  goals: ["cover-costs", "part-time", "fund-team"]
+  project_types: ["library", "tool", "application", "infrastructure"]
+  community_size: ["small", "established", "large"]
+  team: ["solo", "small-team", "organization"]
+  effort: ["some", "significant"]
+finder_pitch: "GitHub-integrated bounty platform that helps teams fund specific issues and recruit contributors through real code work."
 ---
 
-Algora helps projects reward their contributors on Github using tips & bounties<!--more-->
-
+Algora is a GitHub-based platform for funding and hiring through open source work. Teams can post bounties, source contract work, and recruit maintainers or contributors based on real repository activity.<!--more-->

@@ -3,28 +3,39 @@ title: "Open Source Design"
 date: 2024-11-17T00:00:00+00:00
 type: post
 categories:
-- Bounties
+- Support Services
+pillar: "Revenue"
 tags:
-- Live
 - Non-profit
 - Design
+- OSS-specific
 draft: false
 images:
 - /images/open-source-design.png
-comments: true
-lastmod: 2020-06-20T08:20:00+02:00
+lastmod: 2026-03-15T00:00:00+00:00
 link: "https://opensourcedesign.net/"
-twitter: opensrcdesign
+evidence_urls:
+- "https://opensourcedesign.net/"
+- "https://opensourcedesign.net/jobs-projects/"
+- "https://opensourcedesign.net/events/"
 description: "A community of designers and developers pushing open design processes and improving design of open source software."
 organization: "Non-profit"
-monetization: "Jobs board for designers"
-technology: "Open source"
+monetization: "Design jobs board, collaboration opportunities, and community support"
+technology: "Open source design community platform"
+open_source_status: "Open source community initiative"
 status: "Live"
 activity: 150
-activity_text: "More than 150 jobs (some paid, some gratis)"
-payment_services: "?"
-fee: "0"
+activity_text: "The site archives more than 150 jobs and project postings alongside events, articles, and design-community resources."
+payment_services: "External hiring and community channels"
+fee: "No platform fee"
+fee_text: "Open Source Design is primarily a community and jobs/resource hub rather than a paid platform with a standard fee."
+best_for:
+  goals: ["cover-costs", "part-time"]
+  project_types: ["tool", "application", "docs"]
+  community_size: ["starting", "small", "established"]
+  team: ["solo", "small-team"]
+  effort: ["some"]
+finder_pitch: "Community and jobs hub for open design collaboration. Best for maintainers who can turn design expertise into paid project work."
 ---
 
-A community of designers and developers pushing open design processes and improving design of open source software.<!--more-->
-
+A community of designers and developers pushing open design processes and improving design of open source software. The project runs a jobs board, events, and design resources that help open source teams find paid design help or collaborate with designers who want to work in the ecosystem.<!--more-->

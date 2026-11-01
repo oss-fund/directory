@@ -3,29 +3,27 @@ title: "Gitstore"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Paywall
+- Commercial Access
 tags:
-- Live
-- Open source friendly
-- Developer friendly
+- OSS-specific
+pillar: "Revenue"
 draft: false
 images:
 - /images/git-store.png
-comments: true
-lastmod: 2020-06-20T08:20:00+02:00
-link: "https://gitstore.app/"
-twitter: gitstoreapp
-description: "An online-store-like platform for selling access to public or private repositories, packages, etc."
+lastmod: 2026-03-15T00:00:00+00:00
+evidence_urls:
+- "https://www.indiehackers.com/post/i-just-launched-a-saas-to-help-open-source-maintainers-get-paid-am-i-crazy-2ac3724fa0"
+description: "Gitstore was a storefront for selling access to repositories, packages, and other developer assets through subscription or one-time purchase plans."
 organization: "Corporation"
 monetization: "Subscription, purchase or donation plans for projects"
-technology: "Close source"
-status: "Live"
-activity: 60
-activity_text: "More than 10 maintainers"
-payment_services: "Stripe, Paypal"
-fee: "0%-1%"
-fee_text: "From free monthly plan to 50$/month depending on revenue"
+technology: "Closed source commerce platform"
+open_source_status: "Closed source"
+status: "Discontinued"
+activity: 0
+activity_text: "The original site could not be validated during this audit. Surviving references describe Gitstore as a 2019-era SaaS experiment for selling GitHub repository access."
+payment_services: "Stripe, PayPal"
+fee: "Subscription tiers up to $50/month"
+fee_text: "Historical references described a free tier and paid plans up to about $50 per month, depending on revenue and features."
 ---
 
-An online-store-like platform for selling access to public or private repositories, packages, etc.<!--more-->
-
+Gitstore tried to turn repositories and developer packages into products that could be sold with pricing plans, one-off purchases, or donations. The service now appears inactive, but it remains a useful historical example of explicit access control and storefront-style monetization for developer assets.<!--more-->

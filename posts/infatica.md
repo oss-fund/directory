@@ -3,29 +3,36 @@ title: "Infatica"
 date: 2020-10-16T08:20:00+02:00
 type: post
 categories:
-- Advertising
-tags:
-- Live
-- Developer friendly
-- Embedded
+- Commercial Access
+pillar: "Revenue"
 draft: false
 images:
 - /images/infatica.png
-comments: true
-lastmod: 2020-10-16T08:20:00+02:00
+lastmod: 2026-03-15T00:00:00+00:00
 link: "https://infatica.io/"
-twitter: infatica
-description: "Infatica is a global ethical proxy network designed for residential, mobile and datacenter IPs for any white hat use cases."
+evidence_urls:
+- "https://infatica.io/"
+- "https://infatica.io/pricing/"
+- "https://infatica.io/ethical-code/"
+- "https://infatica.io/affiliate/"
+description: "Infatica sells residential, mobile, and datacenter proxy access, with an opt-in peer network and affiliate revenue program."
 organization: "Corporation"
-monetization: "Network traffic monetization"
-technology: "Close source"
+monetization: "Proxy subscriptions, pay-as-you-go plans, and referral revenue share"
+technology: "Closed source data-access platform"
+open_source_status: "Closed source"
 status: "Live"
-activity: 10000000
-activity_text: "More than 10M residential proxies"
+activity: 40000000
+activity_text: "Current public materials highlight more than 40 million ethically sourced proxy IPs across 195 countries."
 payment_services: "PayPal, Bitcoin, WebMoney"
-fee: 360$ - 20000$"
-fee_text: "GB/Month plans"
+fee: "$4/GB+"
+fee_text: "Public pricing starts at $4 per GB for pay-as-you-go proxy access, with larger monthly packages and custom enterprise plans."
+best_for:
+  goals: ["part-time", "full-time"]
+  project_types: ["application", "infrastructure"]
+  community_size: ["established", "large"]
+  team: ["small-team", "organization"]
+  effort: ["significant"]
+finder_pitch: "Commercial proxy platform with affiliate and distribution economics. Best for niche infrastructure projects with traffic-sharing or partner revenue models."
 ---
 
-Infatica is a global ethical proxy network designed for residential, mobile and datacenter IPs for any white hat use cases. <!--more-->
-
+Infatica is a commercial proxy and data-access platform built around residential, mobile, and datacenter proxy products. It is only a weak fit for OSS.Fund, but it can matter indirectly where projects or operators monetize traffic-sharing infrastructure or related developer-facing distribution programs.<!--more-->

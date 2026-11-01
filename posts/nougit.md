@@ -3,23 +3,26 @@ title: "NouGit"
 date: 2020-11-14T08:20:00+02:00
 type: post
 categories:
-- Crowdfunding
+- Bounties
+pillar: "Funding"
 tags:
-- Discontinued
 - Decentralized
-- Open source friendly
-- Developer friendly
+- OSS-specific
+- Marketplace
 draft: false
 images:
 - /images/nougit.png
-comments: true
-lastmod: 2020-11-12T08:20:00+02:00
+lastmod: 2026-03-15T00:00:00+00:00
 link: "https://nougit.com/"
-twitter: nougitrepo
-description: "NouGit is an open source development accelarator platform with market place and social networking features combined."
+evidence_urls:
+- "https://nougit.com/"
+- "https://www.calcalistech.com/ctech/articles/0,7340,L-3747302,00.html"
+- "https://wellfound.com/company/nougit"
+description: "NouGit was a decentralized platform that combined open source collaboration with tokenized rewards and bounties."
 organization: "Corporation"
 monetization: "Decentralized bounties and rewards"
-technology: "Blockchain"
+technology: "Blockchain-based web platform"
+open_source_status: "Unknown"
 status: "Discontinued"
 activity: 0
 payment_services: "?"
@@ -27,5 +30,4 @@ fee: "2.9%"
 fee_text: "2.9% per transaction including any currency exchange and processing."
 ---
 
-NouGit is an open source development accelarator platform with market place and social networking features combined. <!--more-->
-
+NouGit was an open source collaboration platform built around decentralized rewards, repository discovery, and tokenized contribution incentives. It is no longer operating, but it remains a useful historical example of blockchain-based attempts to fund OSS work through bounty-style rewards.<!--more-->

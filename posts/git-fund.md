@@ -3,28 +3,28 @@ title: "GitFund"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Support
+- Donations
 tags:
-- In-development
-- Open source friendly
-- Developer friendly
+- OSS-specific
+pillar: "Funding"
 draft: false
 images:
 - /images/git-fund.png
-comments: true
-lastmod: 2020-06-20T08:20:00+02:00
-link: "https://gitfund.io"
-twitter: gitfund
-description: "Open source project sponsorship platform for tiered support such as Gold, Silver, Bronze sponsors, etc."
+lastmod: 2026-03-15T00:00:00+00:00
+evidence_urls:
+- "https://habr.com/ru/companies/gitfund/articles/263721/"
+- "https://gitfund.io/"
+description: "GitFund was an issue-prioritization and sponsorship experiment that let supporters donate against specific GitHub feature requests."
 organization: "Corporation"
-monetization: "Tiered support model for project sponsorship"
-technology: "Open source"
+monetization: "Issue-prioritized donations and sponsorship"
+technology: "Open source sponsorship tooling"
+open_source_status: "Open source"
 status: "Discontinued"
-activity: 10
-activity_text: "Around 10 backers for the platform itself"
-payment_services: "Stripe"
-fee: "0"
+activity: 0
+activity_text: "The project was explicitly described by its creator as closed after failing to gain traction."
+payment_services: "PayPal"
+fee: "No validated platform fee"
+fee_text: "The early public description focused on routing funds directly to the project owner's PayPal wallet. A durable platform fee model could not be validated."
 ---
 
-Open source project sponsorship platform for tiered support such as Gold, Silver, Bronze sponsors, etc. <!--more-->
-
+GitFund was an early attempt to connect GitHub issue priorities with direct donations, so users could fund the features they most wanted to see built. The experiment did not gain enough traction and was closed, but it remains relevant as a historical example of feature-prioritization funding.<!--more-->

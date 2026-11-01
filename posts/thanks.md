@@ -5,25 +5,37 @@ type: post
 categories:
 - Donations
 tags:
-- Live
-- Developer friendly
-- Open source friendly
+- OSS-specific
+- Developer tooling
+pillar: "Funding"
 draft: false
 images:
 - /images/thanks.png
-comments: true
-lastmod: 2020-06-20T08:20:00+02:00
+lastmod: 2026-03-15T00:00:00+00:00
 link: "https://github.com/feross/thanks"
 twitter: feross
-description: "A tool that helps you see if any of the software you depend on has authors seeking for donations"
-organization: "Non-profit"
+evidence_urls:
+- "https://github.com/feross/thanks"
+- "https://www.npmjs.com/package/thanks"
+- "https://github.com/feross"
+description: "Thanks is a small CLI that scans your npm dependencies and surfaces maintainers who accept donations."
+organization: "Community"
 monetization: "Express need of support for maintainers"
-technology: "Open source"
+technology: "Open source npm CLI"
+open_source_status: "Open source"
 status: "Live"
-activity: 0
+activity: 90
+activity_text: "The npm package remains publicly available and still records ongoing weekly downloads, even though the last publish was several years ago."
 payment_services: "None"
-fee: "0"
+fee: "No platform fee"
+fee_text: "Thanks is a donation-discovery CLI, not a payment platform."
+best_for:
+  goals: ["cover-costs", "part-time"]
+  project_types: ["library", "tool", "infrastructure"]
+  community_size: ["established", "large"]
+  team: ["solo", "small-team"]
+  effort: ["minimal"]
+finder_pitch: "CLI that points users toward maintainers already set up for funding. Best for dependency-heavy projects that need more donation visibility."
 ---
 
-A little tool you can use with npm (the package manager for Node.js) called thanks that helps you see if any of the software you depend on has authors who are seeking donations to continue their work.<!--more-->
-
+Thanks is a lightweight npm CLI that tells you which maintainers in your dependency tree are seeking donations. It matters to OSS.Fund because it reduces friction between software usage and maintainers asking for financial support.<!--more-->

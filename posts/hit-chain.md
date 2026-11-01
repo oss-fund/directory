@@ -4,27 +4,29 @@ date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
 - Crowdfunding
+pillar: "Funding"
 tags:
-- In-development
 - Decentralized
-- Open source friendly
-- Developer friendly
+- OSS-specific
 draft: false
 images:
 - /images/hit-chain.png
-comments: true
-lastmod: 2020-06-20T08:20:00+02:00
-link: "http://hitchain.org/"
-twitter: HitHub_official
-description: "A developer autonomous community that bring together developers, investors and IT experts. "
+lastmod: 2026-03-15T00:00:00+00:00
+evidence_urls:
+- "https://medium.com/hithub-blog/announcement-on-hithub-strategic-brand-upgrade-ffdeae22c945"
+- "https://medium.com/iost/hithub-launches-global-blockchain-open-source-node-program-with-iost-being-the-first-strategic-12c61598938c"
+- "https://coinexplorers.com/coins/hitchain"
+description: "HitChain, later rebranded to HitHub, was a decentralized developer community that mixed code collaboration, token incentives, and crypto funding ideas."
 organization: "Corporation"
 monetization: "Decentralized ecosystem of services, governance and funding"
-technology: "Open source, Blockchain"
+technology: "Open source blockchain collaboration protocol"
+open_source_status: "Open source"
 status: "Discontinued"
 activity: 0
-payment_services: "Token"
-fee: "?"
+activity_text: "The original developer protocol appears inactive. Surviving public material describes a rebrand to HitHub and an emphasis on token incentives, code hosting, and open-source node programs."
+payment_services: "Token-based ecosystem payments"
+fee: "Unknown"
+fee_text: "A public fee schedule could not be validated from surviving sources."
 ---
 
-A developer autonomous community that bring together developers, investors and IT experts. <!--more-->
-
+HitChain set out to build a decentralized GitHub-like ecosystem with token incentives, code hosting, governance, and funding mechanics for developers. The project later rebranded to HitHub and now appears dormant, but it remains a useful historical example of blockchain-native attempts to turn OSS collaboration and funding into one protocol.<!--more-->

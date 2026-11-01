@@ -3,30 +3,38 @@ title: "Dev Protocol"
 date: 2020-08-22T08:20:00+02:00
 type: post
 categories:
-- Staking
+- Crowdfunding
+pillar: "Funding"
 tags:
-- Discontinued
 - Decentralized
-- Open source friendly
-- Developer friendly
 draft: false
 images:
 - /images/dev-protocol.png
-comments: true
 lastmod: 2025-04-13T08:20:00+02:00
-link: "https://devprtcl.com/"
-twitter: devprtcl
-description: "Dev protocol is a decentralized middleware that enhances individual activities and supports sustainability through staking." 
+link: "https://www.devprotocol.xyz/"
+evidence_urls:
+- "https://www.devprotocol.xyz/"
+- "https://builders.devprotocol.xyz/"
+- "https://onboarding-sponsors.devprotocol.xyz/"
+- "https://medium.com/devprtcl/dev-protocol-on-polygon-is-launched-f63ea1273edb"
+description: "Dev Protocol is a decentralized protocol for funding creators and communities through token-based support and incentive mechanisms."
 organization: "Corporation"
 monetization: "Staking tokens to support projects and earn rewards"
-technology: "Open source, Blockchain, Ethereum"
-status: "Discontinued"
+technology: "Open-source blockchain protocol"
+open_source_status: "Open source protocol"
+status: "Live"
 activity: 1500
-activity_text: "1,583,327 DEV tokens with a market cap over of $70K were distributed to OSS developers of 1500 open source projects."
+activity_text: "Public ecosystem materials describe token-based support and onboarding programs across more than 1,500 projects and creator initiatives."
 payment_services: "Token"
 fee: "1%"
-fee_text: "Ethereum Gas fees"
+fee_text: "Support and sponsorship flows rely on token and network transaction fees rather than a conventional platform fee."
+best_for:
+  goals: ["cover-costs", "part-time"]
+  project_types: ["library", "tool", "application", "infrastructure", "docs"]
+  community_size: ["established", "large"]
+  team: ["solo", "small-team"]
+  effort: ["some", "significant"]
+finder_pitch: "Lets supporters stake tokens behind creators and projects. Best for communities comfortable with crypto incentives and ongoing supporter engagement."
 ---
 
-Dev Protocol is a decentralized middleware that enhances individual activities and supports sustainability through staking. It uses the activities of open source creators as the mining power and enables open assets to be economically valued and rewarded. Supporters stake DEV coin and help the sustainability of creators' projects and earn rewards too. Dev Protocol creates an open and decentralized ecosystem that is autonomously enhanced by users, through opening new asset markets and proposing policies.<!--more-->
-
+Dev Protocol is a decentralized protocol for funding creators, communities, and open projects through staking, sponsorship, and other token-based incentive models. The project has broadened beyond pure OSS funding, but it is still relevant as a live example of blockchain-native sustainability infrastructure.<!--more-->

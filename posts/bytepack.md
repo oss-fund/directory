@@ -3,27 +3,29 @@ title: "Bytepack"
 date: 2020-11-16T08:20:00+02:00
 type: post
 categories:
-- Paywall
+- Commercial Access
 tags:
-- In-development
-- Open source friendly
-- Developer friendly
+- Developer tooling
+pillar: "Revenue"
 draft: false
 images:
 - /images/bytepack.png
-comments: true
-lastmod: 2020-11-16T08:20:00+02:00
+lastmod: 2026-03-15T00:00:00+00:00
 link: "https://bytepack.io/"
-twitter: bytepackio
-description: "Bytepack helps you package and delivering software products to third parties, such as developers and enterprises."
+evidence_urls:
+- "https://bytepack.io/"
+- "https://dashbit.co/blog/introducing-bytepack"
+- "https://elixirforum.com/t/bytepack-source-code-has-been-released/62069"
+description: "Bytepack was a hosted service for packaging and selling software to developers and enterprise customers."
 organization: "Corporation"
 monetization: "Paywall for software package usage"
-technology: "Close source"
+technology: "Hosted developer distribution platform"
+open_source_status: "Source released after shutdown"
 status: "Discontinued"
 activity: 0
 payment_services: "Stripe"
-fee: "?"
+fee: "Contact"
+fee_text: "Historical public materials described the product but did not leave behind a stable public pricing page."
 ---
 
-Bytepack helps you package and delivering software products to third parties, such as developers and enterprises.<!--more-->
-
+Bytepack was a service for packaging, licensing, and distributing software products to third-party developers and enterprise customers. The hosted product is discontinued, but the project remains relevant as an example of commercial access and software distribution infrastructure for developer-focused products.<!--more-->

@@ -4,29 +4,37 @@ date: 2021-01-18T08:20:00+02:00
 type: post
 categories:
 - Events
+pillar: "Operational Support"
 tags:
-- Live
-- Open Source friendly
-- Developer friendly
-- Open Hardware
-- Students
+- Education
+- OSS-specific
 draft: false
 images:
 - /images/codeheat.png
-comments: true
-lastmod: 2021-01-18T08:20:00+02:00
+lastmod: 2026-03-15T00:00:00+00:00
 link: "https://codeheat.org"
-twitter: codeheat_
-description: "Codeheat is a coding contest by FOSSASIA and OpnTec where students and professionals contribute to Open Source software and Open Hardware projects."
-organization: "Non-profit"
-monetization: "Winners are announced bi-monthly after an evaluation by mentors and jury members."
-technology: "Open source"
+evidence_urls:
+- "https://codeheat.org/"
+- "https://2021.codeheat.org/"
+- "https://2019.codeheat.org/"
+description: "Codeheat is a FOSS contributor contest where participants earn prizes, certificates, and recognition for open source contributions."
+organization: "Non-profit / company partnership"
+monetization: "Cash prizes, certificates, and event support for contributors"
+technology: "Open source contributor program"
+open_source_status: "Open source program"
 status: "Live"
-activity: 6,000
-activity_text: "6,000+ trained participants, 100+ mentors, 8,000 pull requests, first contest 2016"
-payment_services: "Wire Transfer, Paypal, Cash"
-fee: "1500$"
-fee_text: "Based on choice of transfer"
+activity: 750
+activity_text: "The current contest site highlights 750+ participants and 2,000+ merged pull requests in the latest cycle."
+payment_services: "Organizer-arranged prize payouts"
+fee: "No platform fee"
+fee_text: "Codeheat is a contest program, not a paid platform with a published platform fee."
+best_for:
+  goals: ["cover-costs", "part-time"]
+  project_types: ["library", "tool", "application", "infrastructure", "docs"]
+  community_size: ["starting", "small", "established"]
+  team: ["solo", "small-team"]
+  effort: ["some"]
+finder_pitch: "Contribution contest with prizes and recognition for open source work. Best for projects that can turn contributor activity into a time-boxed event."
 ---
 
-Codeheat is a coding contest by FOSSASIA and OpnTec where students and professionals contribute to Open Source software and Open Hardware projects. Winners are announced bi-monthly.<!--more-->
+Codeheat is a recurring FOSS contribution contest run by FOSSASIA and OpnTec, where students and developers work on open source issues and compete for prizes, certificates, and community recognition. It is best understood as an operational support and contributor-onboarding program rather than a conventional monetization platform.<!--more-->
