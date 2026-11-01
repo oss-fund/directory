@@ -10,7 +10,7 @@ tags:
 draft: false
 images:
 - /images/carbon-ads.svg
-lastmod: 2026-03-15T00:00:00+00:00
+lastmod: 2026-11-01T00:00:00+00:00
 link: "https://www.carbonads.net/"
 twitter: carbonads
 evidence_urls:
@@ -28,7 +28,7 @@ activity: 600
 activity_text: "Carbon says its network reaches audiences through more than 600 hand-picked tech sites and has paid out more than $120 million to publishers since launch."
 payment_services: "PayPal, check, wire transfer, and Open Collective payouts"
 fee: "Revenue share / CPM-based"
-fee_text: "Carbon says publishers typically earn about $0.50-$1.10 CPM. Payouts are Net-30, with withdrawal minimums depending on the selected payment method."
+fee_text: "Carbon reports typical publisher earnings of $1.50 to $2.30 CPM, depending mostly on audience geography; no rate is guaranteed. Monthly earnings are deposited within 30 days and become withdrawable within 60 days of month-end. Open Collective payouts follow a separate quarterly schedule. Withdrawal minimums depend on the payment method."
 best_for:
   goals: ["cover-costs", "part-time", "full-time"]
   project_types: ["tool", "application", "docs"]
